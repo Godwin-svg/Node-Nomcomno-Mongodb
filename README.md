@@ -1,4 +1,7 @@
+
 # Number Combination Generator App
+
+![Diagram Alt Text](Nomcombo.drawio.pdf)
 
 This project is a **Number Combination Generator** application built using **Node.js** as the JavaScript runtime environment.  
 The application is hosted on an **AWS EC2** instance and uses **MongoDB Atlas** as the database.
