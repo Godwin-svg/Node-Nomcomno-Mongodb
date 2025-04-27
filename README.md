@@ -68,10 +68,6 @@ Follow these steps to set up and deploy the Number Combination Generator App:
      http://<your-ec2-public-ip>:3000
      ```
 ---
-## Features
-- Generates random number combinations based on user input.
-- Stores generated combinations in MongoDB for future reference.
-- Can be accessed via a web interface hosted on an AWS EC2 instance.
 
 ## Technologies Used
 - **Node.js**: JavaScript runtime for building the backend.
